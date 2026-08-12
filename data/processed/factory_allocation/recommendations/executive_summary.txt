@@ -1,0 +1,55 @@
+FACTORY REALLOCATION & SHIPPING OPTIMIZATION
+EXECUTIVE DECISION SUMMARY
+============================================================
+
+OVERVIEW
+------------------------------------------------------------
+Optimization candidates evaluated : 6
+Products with recommendations     : 6
+Locations involved                : 4
+
+RECOMMENDATION PRIORITY
+------------------------------------------------------------
+Strong priority candidates        : 1
+High priority candidates          : 3
+
+AVERAGE IMPACT
+------------------------------------------------------------
+Average lead-time improvement      : 12.31%
+Average lead-time reduction        : 0.53 days
+Estimated historical days saved    : 213.98
+
+BEST RECOMMENDATION
+------------------------------------------------------------
+Product                            : CHO-SCR-58000
+Recommended location               : Massachusetts_Atlantic
+Current lead time                  : 4.25 days
+Recommended lead time              : 3.12 days
+Lead-time reduction                : 1.12 days
+Percentage improvement              : 26.45%
+Historical records                  : 24
+Priority                            : STRONG PRIORITY
+Confidence                          : MEDIUM
+Action                              : Pilot Reallocation
+
+MANAGEMENT INTERPRETATION
+------------------------------------------------------------
+The optimization identifies product-location combinations
+where historical shipping performance suggests a potential
+reduction in shipping lead time.
+
+The recommendations should be treated as decision-support
+signals rather than guaranteed future outcomes. Historical
+performance, operational capacity, factory constraints,
+inventory availability, and implementation costs should be
+validated before executing a physical reallocation.
+
+RECOMMENDED NEXT STEP
+------------------------------------------------------------
+Prioritize the strongest recommendations for operational
+pilot testing and validate the expected lead-time improvement
+against actual factory capacity and shipping constraints.
+
+============================================================
+END OF EXECUTIVE SUMMARY
+============================================================
