@@ -12,7 +12,7 @@ A data-driven decision intelligence system that analyzes historical shipping per
 
 🔗 \*\*Live Dashboard:\*\*  
 
-https://smart-factory-allocation-ayfzbxjs8ju9grfdgddft.streamlit.app/
+https://smart-factory-allocation-ayfzbxjs8ju9grfrgddfit.streamlit.app/
 
 
 
